@@ -1,0 +1,1 @@
+Causes a scribbler robot to perform a dance then sing Ode to Joy

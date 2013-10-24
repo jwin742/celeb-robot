@@ -6,7 +6,7 @@
 ## http://www.sandyn.com/play/OdetoJoyRec1.pdf
 
 from Myro import *
-#init("com3")
+init("sim")
 
 def danceSing():
     waltz()
